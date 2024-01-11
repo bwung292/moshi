@@ -1,5 +1,5 @@
 # moshi
-Moshi is a personal project to document my closet and practice HTML, CSS, JS.
+Moshi is a personal project to document my closet and to practice writing HTML, CSS, JS.
 
 [![My Skills](https://skillicons.dev/icons?i=js)]() &nbsp;
 [![My Skills](https://skillicons.dev/icons?i=html)]() &nbsp;
